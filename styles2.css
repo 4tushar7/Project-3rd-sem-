@@ -1,0 +1,67 @@
+h1
+{
+color: yellow;
+}
+
+p
+{
+color: orange;
+font-family: garamond;
+}
+
+div.bg
+{
+border: 5px solid White;
+}
+
+div.image 
+{ 
+   position: relative; 
+   width: 100%;
+}
+
+h2 
+{ 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li 
+{
+    float: left;
+}
+
+li a 
+{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 120%
+}
+
+li a:hover 
+{
+    background-color: #696969;
+}
+
+div.iframe
+{
+    text-align: center;
+    width: 100%;
+    vertical-align: middle;
+    height: 100%;
+}
+

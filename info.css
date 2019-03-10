@@ -1,0 +1,30 @@
+h1
+{
+text-align: center;
+color: orange;
+font-family: Monotype Corsiva;
+}
+h3
+{
+color: yellow;
+font-family: Viner Hand ITC;
+}
+h2
+{
+color:green;
+font-family: Monotype Corsiva;
+}
+p
+{
+font-size:20px;
+color: white;
+font-family: Bradley Hand ITC;
+}
+img{
+display: block;
+margin: auto;
+}
+li{ 
+color: white;
+font-family: Lucida Calligraphy;
+}

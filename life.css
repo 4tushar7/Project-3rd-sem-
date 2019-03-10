@@ -1,0 +1,21 @@
+h1
+{
+text-align: center;
+color: green;
+font-family: Monotype Corsiva;
+}
+p
+{
+font-size:20px;
+color: black;
+font-family: Century Gothic;
+}
+img{
+display: block;
+margin: auto;
+}
+li{ 
+font-size:20px
+color: black;
+font-family: Century Gothic;
+}
